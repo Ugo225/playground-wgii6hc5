@@ -8,6 +8,6 @@ echo "Hello World!";
 ?>
 ```
 
-# Advanced usage
+# Advanced usagej
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced PHP template](https://tech.io/select-repo/574)
+If you want a more complex example (external libraries, viewers...), use the [Advanced PHP template](https://tech.io/select-repo/574)duv
